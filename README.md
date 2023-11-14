@@ -1,2 +1,1 @@
-# ForsenStudy
-Internet Anthropology investigation into Forsen and his community.
+# Internet Anthropology: An Investigation of Forsen and His Community
